@@ -1,0 +1,3 @@
+This is a project that I wrote in OCaml. In this project, I implemented a lexer and parser for MicroCaml, a dynamically-typed version of OCaml with a subset of its features. My lexer function converts an input string of MicroCaml into a list of tokens, and my parser function consumes these tokens to produce an abstract symbol tree (AST). My eval function is an interpreter to actually execute the produced AST. By putting all of them together, I can run them and your interpreter together in Micro-utop as shown in the first picture that I have included here.
+
+This project showcased my ability to understand how interpreters and compilers work in a broad sense. It raised my interest in digging deeper into computer architecture.
